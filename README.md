@@ -67,7 +67,7 @@ My name is <b>Nelson Trindade</b>, a <b>20 years</b> old student in Masters Scie
   |:--:|:--:|
   | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nelsontr&repo=CG_2020-2021)](https://github.com/nelsontr/CG_2020-2021) | [**RC 🔐**](https://github.com/nelsontr/RC_2020-2021)
   | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nelsontr&repo=AMS_2020-2021)](https://github.com/nelsontr/AMS_2020-2021) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nelsontr&repo=Comp_2020-2021)](https://github.com/nelsontr/Comp_2020-2021)|
-  | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nelsontr&repo=AMS_2020-2021)](https://github.com/nelsontr/AMS_2020-2021) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nelsontr&repo=Comp_2020-2021)](https://github.com/nelsontr/Comp_2020-2021)|
+  | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nelsontr&repo=ES_2020-2021)](https://github.com/nelsontr/ES_2020-2021) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nelsontr&repo=SD_2020-2021)](https://github.com/nelsontr/SD_2020-2021)|
   | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nelsontr&repo=TCom_2020-2021)](https://github.com/nelsontr/TCom_2020-2021)| **--** |
 
   </details>
