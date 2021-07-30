@@ -82,6 +82,12 @@ My name is <b>Nelson Trindade</b>, a <b>20 years</b> old student in Masters Scie
 <br/>
 
 <p align="center">
+  <a href="https://github.com/nelsontr">
+    <img src="https://api.visitorbadge.io/api/VisitorHit?user=nelsontr&repo=nelsontr&countColor=%237B1E7A"/>
+  </a>
+  
+  <br/>
+  
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   
@@ -101,5 +107,5 @@ My name is <b>Nelson Trindade</b>, a <b>20 years</b> old student in Masters Scie
 </p>
 
 <p align="center">
- <b>Updated at 28/07/2021</b>
+ <b>Updated at 30/07/2021</b>
 </p>
