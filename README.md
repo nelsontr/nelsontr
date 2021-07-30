@@ -1,4 +1,4 @@
-<img align="right" alt="stats" src="https://github-readme-stats.vercel.app/api?username=nelsontr&show_icons=true&hide_border=true&hide=issues,prs" />
+<img align="right" alt="stats" src="https://github-readme-stats.vercel.app/api?username=nelsontr&title_color=1d87da&icon_color=539bf5&text_color=539bf5&bg_color=0000&show_icons=true&hide_border=true&hide=issues,prs" />
 
 <p align="center">
 <h2 align="left">😊 Profile</h2>
